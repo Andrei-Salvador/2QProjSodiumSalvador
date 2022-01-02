@@ -1,0 +1,165 @@
+body {
+     background-color: #ADD8e6;
+	 background-repeat: no-repeat;
+	 background-position: center center;
+}
+#logo {
+     float: left;
+	 margin-bottom: 2px;
+}	 
+header { 
+     background-color: #8AC7DB;
+     font-family: verdana, arial, serif;
+	 font-weight: bold;
+	 text-align: center;	 
+}
+nav { 
+     float: left;
+	 font-family: cambria, arial, serif;
+	 font-style: italic;
+	 text-align: justify;
+	 box-sizing: border-box;
+	 height: 130px;
+	 width: 800px;
+	 border-color: black;
+	 border-width: 3px;
+	 border-style: solid;
+	 padding: 20px;
+	 margin-top: 20px;
+	 margin-bottom: 2px;
+	 margin-left: 100px;
+	
+}	 
+#homedirect {
+     float: left; 
+	 width: 140px;
+	 margin-left: 40px;
+	 
+}
+#victimdirect {
+     float: left;	
+	 width: 140px;
+}
+#bystanderdirect {
+     float: left;	
+	 width: 140px;
+	 margin-right: auto;
+}
+#bullydirect {
+     float: left;	
+	 width: 140px;
+}
+#contactsdirect {
+     float: left;	
+	 width: 140px;
+}
+p { 
+	 font-family: "Times New Roman", arial, serif;
+	 font-style: italic;
+	 color: #1E5162;
+	 text-align: justify;
+	 box-sizing: border-box;
+	 width: 500px;
+	 border-color: black;
+	 border-width: 3px;
+	 border-style: solid;
+	 padding: 20px;
+	 margin: auto;
+}
+#line {
+	 float: left;
+	 clear: left;
+	 width: 1450px;
+	 border-color: black;
+	 border-width: 3px;
+	 border-style: solid;
+	 margin: 20px; 
+}	 
+#Tagline { 
+	 text-align: center;
+	 float: left;
+	 clear: left;
+	 margin-left: 100px;
+	 margin-bottom: 10px	 
+}
+#infotag { 
+	 font-family: fantasy, arial, serif;
+	 color: #189AB4;
+	 text-align: center;
+	 float: right;
+	 box-sizing: border-box;
+	 margin-right: 100px;
+	 margin-bottom: 55px
+}
+#whattag { 
+	 font-family: fantasy, arial, serif;
+	 color: #189AB4;
+	 text-align: center;
+	 float: left;
+	 clear: left;
+	 margin-left: 100px;
+}
+#picture {
+	 float: right;
+	 margin-right: 100px;
+}	 
+#page {	
+     background-color: #8AC7DB;
+     height: 600px;
+     width: 1300px;
+	 margin-left: 100px;
+	 margin-right: 150px;
+	 margin-top: 210px;
+}	
+#difference { 
+	 font-family: fantasy, arial, serif;
+	 color: #189AB4;
+	 text-align: center;
+	 float: left;
+	 clear: left;
+	 margin-left: 100px;
+}
+#victims {
+	 float: right;
+	 margin-right: 100px;
+	 margin-top: 35px;
+}	 
+#whattodo { 
+	 font-family: verdana, arial, serif;
+	 color: #189AB4;
+	 float: left;
+	 clear: left;
+	 margin-left: 50px;
+	 margin-top: 32px;
+}
+#whattodoheader {
+	 margin-left: 50px;
+}
+ul {
+	 font-size: 13px;
+}	 
+#askhelp {
+	 float: right;
+	 margin-right: 100px;
+	 margin-top: 30px;
+}	 
+#page1 {	
+     background-color: #8AC7DB;
+     height: 760px;
+     width: 1300px;
+	 margin-left: 100px;
+	 margin-right: 150px;
+	 margin-top: 210px;
+}	
+h5 {
+	 float: left;
+	 margin-left: 100px;
+}
+audio {
+	 float: left;
+	 margin-left: 20px;
+	 margin-top: 15px;
+	 width: 200px;
+	 height: 30px;
+}
+	 
